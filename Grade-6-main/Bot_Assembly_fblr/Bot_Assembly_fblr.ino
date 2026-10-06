@@ -1,7 +1,7 @@
-#define MLa 8 //left motor 1st pin
-#define MLb 9 //left motor 2nd pin
-#define MRa 10 //right motor 1st pin
-#define MRb 11 //right motor 2nd pin
+#define MLa 7 //left motor 1st pin
+#define MLb 8 //left motor 2nd pin
+#define MRa 9 //right motor 1st pin
+#define MRb 10 //right motor 2nd pin
 void setup() {
 pinMode(MLa, OUTPUT);
 pinMode(MLb, OUTPUT);
