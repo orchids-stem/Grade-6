@@ -11,8 +11,8 @@
 // ----------------------------
 // IR sensor pin definitions
 // ----------------------------
-int IR_Left = 3;   // Left IR sensor
-int IR_Right = 4;  // Right IR sensor
+int IR_Left = 2;   // Left IR sensor
+int IR_Right = 3;  // Right IR sensor
 
 
 void setup() {
