@@ -9,10 +9,10 @@
 #define MRb 11
 
 // IR Remote HEX codes (use the values you recorded in Activity 3.1)
-#define FORWARD_CODE   0xE41B7F80   // 2
-#define BACKWARD_CODE  0xF00F7F80   // 8
-#define LEFT_CODE      0xF30C7F80   // 4
-#define RIGHT_CODE     0xF10E7F80   // 6
+#define FORWARD_CODE   0xE41B7F80   // Hex code of Remote button 2
+#define BACKWARD_CODE  0xF00F7F80   // Hex code of Remote button 8
+#define LEFT_CODE      0xF30C7F80   // Hex code of Remote button 4
+#define RIGHT_CODE     0xF10E7F80   // Hex code of Remote button 6
 
 void setup() {
   pinMode(MLa, OUTPUT);
